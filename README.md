@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Banner" />
+</p>
 # 👋 ¡Hola, soy Carlos!  
 
 💻 **Data Engineer | Python & PySpark | Azure | Databricks**  
