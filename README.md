@@ -30,7 +30,7 @@ TODAS las funciones que ofrece Databricks API automatizadas con Python.
 🔹 [**PySpark ETL CSV Functions**](https://github.com/PythonCFL/pyspark-etl)  
 Pipeline de ingesta, transformación y escritura de datos con PySpark + tests y CI.
 
-🔹 **ETL PySpark de Turismo en Mallorca** *(🚧 en progreso)*  
+🔹 [**ETL PySpark de Turismo**](https://github.com/PythonCFL/aena-etl-pyspark)*  
 Pipeline de ingestión, transformación y optimización con datos abiertos de turismo.  
 
 ---
