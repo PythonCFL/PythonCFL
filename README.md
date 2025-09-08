@@ -25,7 +25,7 @@
 
 ## 📂 Proyectos Destacados
 🔹 [**Databricks SCIM Toolkit Automation**](https://github.com/PythonCFL/databricks-scim-toolkit)  
-Gestión de usuarios, grupos y permisos con Python + Databricks API.  
+TODAS las funciones que ofrece Databricks API automatizadas con Python.  
 
 🔹 [**PySpark ETL CSV Functions**](https://github.com/PythonCFL/pyspark-etl)  
 Pipeline de ingesta, transformación y escritura de datos con PySpark + tests y CI.
