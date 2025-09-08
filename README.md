@@ -1,4 +1,3 @@
-
 # 👋 ¡Hola, soy Carlos!  
 
 💻 **Data Engineer | Python & PySpark | Azure | Databricks**  
