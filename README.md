@@ -50,7 +50,7 @@ Pipeline de ingestión, transformación y optimización con datos abiertos de tu
 ## 📫 Contacto
 - ✉️ **carlosfernandezlorente@gmail.com**  
 - 🐙 [GitHub](https://github.com/PythonCFL)  
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/cfl-python/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/cfl-python/)  
 
 ---
 
