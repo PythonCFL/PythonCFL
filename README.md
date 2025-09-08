@@ -1,7 +1,7 @@
 # 👋 ¡Hola, soy Carlos!  
 
 💻 **Data Engineer | Python & PySpark | Azure | Databricks**  
-📍 Islas Baleares | 🚀 En búsqueda de retos profesionales 
+📍 Islas Baleares | 🚀 Road Programador TOP 1 Mallorca. 
 
 ---
 
@@ -24,8 +24,11 @@
 ---
 
 ## 📂 Proyectos Destacados
-🔹 [**Databricks SCIM Toolkit Automation**](https://github.com/PythonCFL/pyspark-etl)  
+🔹 [**Databricks SCIM Toolkit Automation**](https://github.com/PythonCFL/databricks-scim-toolkit)  
 Gestión de usuarios, grupos y permisos con Python + Databricks API.  
+
+🔹 [**PySpark ETL CSV Functions**](https://github.com/PythonCFL/pyspark-etl)
+Pipeline de ingesta, transformación y escritura de datos con PySpark + tests y CI.
 
 🔹 **ETL PySpark de Turismo en Mallorca** *(🚧 en progreso)*  
 Pipeline de ingestión, transformación y optimización con datos abiertos de turismo.  
